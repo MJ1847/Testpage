@@ -8,5 +8,4 @@ Subject Matter Expert / Online Instructor
 Coursera, Mountain View, CA
 March 2020 - Present
 
-    Create interactive online IT courses
-    Teach students worldwide
+   
